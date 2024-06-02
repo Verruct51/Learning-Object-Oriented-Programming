@@ -1,0 +1,75 @@
+.form-kiri{
+    -fx-background-color:linear-gradient(to top, #12374e, #20dbd8);
+    -fx-border-color: #000;
+    -fx-border-width: .4px 0px .4px .4px;
+}
+.form-kanan{
+    -fx-background-color:#fff;
+    -fx-border-color: #000;
+    -fx-border-width: .4px .4px .4px 0px;
+}
+.tombol_close{
+    -fx-background-color: transparent;
+    -fx-cursor:hand;
+}
+.tombol_close:hover{
+    -fx-background-color:#b10c0c;
+}
+
+.label_forgot{
+    -fx-border-color: #20dbd8;
+    -fx-border-width: 0 0 0 3px;
+    -fx-padding: 0 0 0 5px;
+}
+
+.teks{
+    -fx-background-color: transparent;
+    -fx-background-radius:4px;
+    -fx-font-size:13px;
+    -fx-border-color: linear-gradient(to top, #206996, #206996);
+    -fx-border-width: 1px;
+    -fx-border-radius: 4px;
+    -fx-font-family: Tahoma;
+}
+.teks:focused{
+    -fx-background-color: #fff;
+    -fx-border-color:linear-gradient(to top right, #12374e, #12374e);
+    -fx-border-width: 1px;
+}
+.tombol_login{
+    -fx-background-color:#146786;
+    -fx-background-radius: 50px;
+    -fx-cursor:hand;
+    -fx-text-fill: #fff;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Arial";
+}
+.tombol_login:hover{
+    -fx-background-color:#12374e;
+}
+
+.tombol_next{
+    -fx-background-color:#146786;
+    -fx-cursor:hand;
+    -fx-text-fill: #fff;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Arial";
+}
+.tombol_next:hover{
+    -fx-background-color:#12374e;
+}
+
+.tombol_daftar{
+    -fx-background-color:transparent;
+    -fx-cursor:hand;
+    -fx-text-fill: #fff;
+    -fx-border-color: #fff;
+    -fx-border-width: .5px;
+}
+
+.tombol_daftar:hover{
+    -fx-background-color:#ffff;
+    -fx-text-fill:#12374e;
+}
