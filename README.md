@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Alvin Anugerah Pratama</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=07c6ff&size=30&center=true&vCenter=true&width=600&height=65&lines=Assalamualaikum...;++;Perkenalkan,++saya;++Alvin+Anugerah+Pratama;PROGRAM+STUDI+INFORMATIKA;DEPARTEMEN+TEKNIK+ELEKTRONIKA;UNIVERSITAS+NEGERI+PADANG;">
+<img font=Architects+Daughter&color=07c6ff&size=30&center=true&vCenter=true&width=600&height=65&lines=Assalamualaikum...;++;Perkenalkan,++saya;++Alvin+Anugerah+Pratama;PROGRAM+STUDI+INFORMATIKA;DEPARTEMEN+TEKNIK+ELEKTRONIKA;UNIVERSITAS+NEGERI+PADANG;">
 </p>
 
 <br>
