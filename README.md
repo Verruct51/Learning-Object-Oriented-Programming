@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **alvinanugerah051@gmail.com**
 
-- ⚡ I am interested in Cyber Security & Data Scientist
+- ⚡ I am interested in Cyber Security & Back-End Development
 
 <br>
 
